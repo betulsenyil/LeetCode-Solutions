@@ -14,3 +14,4 @@ public:
         return n % total == 0;
     }
 };
+// solved :3
