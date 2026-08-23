@@ -20,4 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/betulsenyil/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/betulsenyil/LeetCode-Solutions/tree/master/1927-sum-game) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/betulsenyil/LeetCode-Solutions/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/betulsenyil/LeetCode-Solutions/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/betulsenyil/LeetCode-Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
